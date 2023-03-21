@@ -1,0 +1,20 @@
+body{
+background-color: gray;
+}
+
+#content{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translateY(-50%) translateX(-50%);
+    text-align: center;
+}
+
+button{
+    border-width: 10px;
+    width: 45px;
+    height: 45px;
+    font-size: large;
+    background-color: black;
+    color: white;
+}
